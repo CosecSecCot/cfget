@@ -1,0 +1,18 @@
+{
+  "name": "cfget",
+  "version": "1.0.0",
+  "description": "Get problems from Codeforces via Competitive Companion",
+  "main": "cfget.js",
+  "bin": "./cfget.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CosecSecCot",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "express": "^4.19.2"
+  }
+}
