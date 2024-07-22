@@ -30,7 +30,7 @@ But, if you want to try it you free to do so!
    npm link
    ```
 
-4. Make `cfget.js` executable
+Make `cfget.js` executable (if required)
 
    ```sh
    chmod +x cfget.js
